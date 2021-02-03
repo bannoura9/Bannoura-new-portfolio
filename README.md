@@ -16,7 +16,7 @@ Mike B portfolio three projects.
 
 ##### Github repo
 
-https://bannoura9.github.io/Mike-B-portfolio/home.html
+https://github.com/bannoura9/Bannoura-new-portfolio
 
 **deployed application**
-https://bannoura9.github.io/Mike-bannoura-bio/index.html
+https://bannoura9.github.io/Bannoura-new-portfolio/
